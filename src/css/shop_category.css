@@ -1,0 +1,5 @@
+@import "components/product-card.css";
+@import "components/pagination.css";
+@import "components/catalog/catalog.css";
+@import "components/catalog/filter.css";
+@import "components/catalog/modal.css";
